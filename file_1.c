@@ -11,3 +11,9 @@ sum = num1+num2;
 printf("%d + %d = %d", num1,num2,sum);
 return 0;
 }
+//function added in branch1
+ int func_add(int a, int b)
+{
+	return a+b;
+>>>>>>branch1
+}
